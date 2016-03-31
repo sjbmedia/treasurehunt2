@@ -90,12 +90,12 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassMask.shader" />
      <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareSingle.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\MeshBrush\SimpleVegetation.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareDouble.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateSampling.shader" />
-     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombineCore.cginc" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
