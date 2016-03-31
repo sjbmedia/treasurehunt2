@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="maanlander-maurice" size="2000.000000 1591.000000" />
+    <ImageTarget name="kookoo-cover" size="1500.000000 1248.000000" />
+    <ImageTarget name="Herfst628" size="628.000000 480.000000" />
+    <ImageTarget name="albert" size="297.000000 106.402626" />
+    <ImageTarget name="achristmastailcoverFINAL" size="297.000000 246.217621" />
+    <ImageTarget name="KK02TreeWinter" size="297.000000 227.006363" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4F60E8C8-B09B-1E88-76CD-46AE3E97D91A}") = "treasurehunt", "Assembly-CSharp-firstpass.csproj", "{FB72C49E-2B11-EB5A-AA80-818FE1F4DB75}"
+EndProject
+Project("{4F60E8C8-B09B-1E88-76CD-46AE3E97D91A}") = "treasurehunt", "Assembly-CSharp.csproj", "{AFCE203F-FB0F-3C1B-2599-24A1BC550A5A}"
+EndProject
+Project("{4F60E8C8-B09B-1E88-76CD-46AE3E97D91A}") = "treasurehunt", "Assembly-CSharp-Editor.csproj", "{89695D58-ED4F-44AB-852B-77015E3FE851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB72C49E-2B11-EB5A-AA80-818FE1F4DB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB72C49E-2B11-EB5A-AA80-818FE1F4DB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB72C49E-2B11-EB5A-AA80-818FE1F4DB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB72C49E-2B11-EB5A-AA80-818FE1F4DB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCE203F-FB0F-3C1B-2599-24A1BC550A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE203F-FB0F-3C1B-2599-24A1BC550A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE203F-FB0F-3C1B-2599-24A1BC550A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE203F-FB0F-3C1B-2599-24A1BC550A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89695D58-ED4F-44AB-852B-77015E3FE851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89695D58-ED4F-44AB-852B-77015E3FE851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89695D58-ED4F-44AB-852B-77015E3FE851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89695D58-ED4F-44AB-852B-77015E3FE851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
