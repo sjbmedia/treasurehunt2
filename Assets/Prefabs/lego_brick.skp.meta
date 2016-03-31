@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: b8c6f852c77924d9d80614a6c993c906
+timeCreated: 1459423059
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000
+  assetHash:
+    serializedVersion: 2
+    Hash: dd787604e3806e3f8b4192357647e69e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.06119142, y: 0.07634273, z: -0.014043215}
+      lookAt: {x: 0.049262848, y: 0.05563733, z: -0.0054318393}
+      up: {x: -0.66094124, y: 0.5792176, z: 0.4771411}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 2
+    100004: Group 20
+    100006: Group 21
+    100008: LEGO#1
+    100010: LEGO#1 1
+    100012: LEGO#1 10
+    100014: LEGO#1 11
+    100016: LEGO#1 12
+    100018: LEGO#1 13
+    100020: LEGO#1 14
+    100022: LEGO#1 15
+    100024: LEGO#1 2
+    100026: LEGO#1 3
+    100028: LEGO#1 4
+    100030: LEGO#1 5
+    100032: LEGO#1 6
+    100034: LEGO#1 7
+    100036: LEGO#1 8
+    100038: LEGO#1 9
+    100040: //RootNode
+    400000: Group 1
+    400002: Group 2
+    400004: Group 20
+    400006: Group 21
+    400008: LEGO#1
+    400010: LEGO#1 1
+    400012: LEGO#1 10
+    400014: LEGO#1 11
+    400016: LEGO#1 12
+    400018: LEGO#1 13
+    400020: LEGO#1 14
+    400022: LEGO#1 15
+    400024: LEGO#1 2
+    400026: LEGO#1 3
+    400028: LEGO#1 4
+    400030: LEGO#1 5
+    400032: LEGO#1 6
+    400034: LEGO#1 7
+    400036: LEGO#1 8
+    400038: LEGO#1 9
+    400040: //RootNode
+    2300000: Group 2
+    2300002: Group 21
+    2300004: LEGO#1
+    2300006: LEGO#1 1
+    2300008: LEGO#1 10
+    2300010: LEGO#1 11
+    2300012: LEGO#1 12
+    2300014: LEGO#1 13
+    2300016: LEGO#1 14
+    2300018: LEGO#1 15
+    2300020: LEGO#1 2
+    2300022: LEGO#1 3
+    2300024: LEGO#1 4
+    2300026: LEGO#1 5
+    2300028: LEGO#1 6
+    2300030: LEGO#1 7
+    2300032: LEGO#1 8
+    2300034: LEGO#1 9
+    3300000: Group 2
+    3300002: Group 21
+    3300004: LEGO#1
+    3300006: LEGO#1 1
+    3300008: LEGO#1 10
+    3300010: LEGO#1 11
+    3300012: LEGO#1 12
+    3300014: LEGO#1 13
+    3300016: LEGO#1 14
+    3300018: LEGO#1 15
+    3300020: LEGO#1 2
+    3300022: LEGO#1 3
+    3300024: LEGO#1 4
+    3300026: LEGO#1 5
+    3300028: LEGO#1 6
+    3300030: LEGO#1 7
+    3300032: LEGO#1 8
+    3300034: LEGO#1 9
+    4300000: Mesh Group 2
+    4300002: Mesh LEGO#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
