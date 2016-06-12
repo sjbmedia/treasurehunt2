@@ -71,26 +71,6 @@ namespace Vuforia
             Renderer[] rendererComponents = GetComponentsInChildren<Renderer>(true);
             Collider[] colliderComponents = GetComponentsInChildren<Collider>(true);
 
-			//Willem ADDED
-			Terrain[] terrainComponents = GetComponentsInChildren<Terrain>();
-
-			foreach( Terrain component in terrainComponents )
-			{
-				component.enabled = true;
-			}
-
-
-
-			//enabling terrain?
-		
-			foreach (Terrain component in terrainComponents)
-			{
-				component.enabled = true;
-			}
-
-
-			//Einde Willem ADDED
-
             // Enable rendering:
             foreach (Renderer component in rendererComponents)
             {
@@ -117,18 +97,6 @@ namespace Vuforia
             {
                 component.enabled = false;
             }
-
-
-			//WILLEM
-
-			Terrain[] terrainComponents = GetComponentsInChildren<Terrain>();
-
-			foreach( Terrain component in terrainComponents )
-			{
-				component.enabled = false;
-			}
-
-			//END WILLEM
 
             // Disable colliders:
             foreach (Collider component in colliderComponents)
