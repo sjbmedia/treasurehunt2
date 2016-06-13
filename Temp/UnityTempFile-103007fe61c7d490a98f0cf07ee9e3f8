@@ -85,6 +85,15 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 'Assets/0000 ats V2 package/atsV2 UnityTerrainBump Package/CustomTerrainScriptAtsV2.cs'
+'Assets/Common/CameraSettings.cs'
+'Assets/Common/InitErrorHandler.cs'
+'Assets/Common/MenuAnimator.cs'
+'Assets/Common/MenuOptions.cs'
+'Assets/Common/SplashAbout/AboutScreen.cs'
+'Assets/Common/SplashAbout/AsyncSceneLoader.cs'
+'Assets/Common/SplashAbout/LoadingScreen.cs'
+'Assets/Common/TapHandler.cs'
+'Assets/Common/TrackableSettings.cs'
 'Assets/Falling leaves/Script/AutoDestory.cs'
 'Assets/Falling leaves/Script/CameraOrbit.cs'
 'Assets/Falling leaves/Script/SceneManager.cs'
@@ -99,6 +108,7 @@
 'Assets/Paroxe/UltimateBloom/Scripts/UBHelper.cs'
 'Assets/Paroxe/UltimateBloom/Scripts/UltimateBloom.cs'
 'Assets/Paroxe/UltimateBloom/UltimateBloomPathLocator.cs'
+'Assets/Scripts/NegativeGrayscaleEffect.cs'
 'Assets/Vuforia/Scripts/BackgroundPlaneBehaviour.cs'
 'Assets/Vuforia/Scripts/CloudRecoBehaviour.cs'
 'Assets/Vuforia/Scripts/CylinderTargetBehaviour.cs'

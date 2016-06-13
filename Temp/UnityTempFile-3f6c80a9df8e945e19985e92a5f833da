@@ -101,6 +101,7 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
+'Assets/Editor/Vuforia/SampleOrientationSetter.cs'
 'Assets/MeshBrush/Editor/MeshBrushEditor.cs'
 'Assets/MeshBrush/Editor/MeshBrushTemplate.cs'
 'Assets/MeshBrush/Editor/SaveCombinedMeshEditor.cs'

@@ -46,6 +46,15 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\CustomTerrainScriptAtsV2.cs" />
+     <Compile Include="Assets\Common\CameraSettings.cs" />
+     <Compile Include="Assets\Common\InitErrorHandler.cs" />
+     <Compile Include="Assets\Common\MenuAnimator.cs" />
+     <Compile Include="Assets\Common\MenuOptions.cs" />
+     <Compile Include="Assets\Common\SplashAbout\AboutScreen.cs" />
+     <Compile Include="Assets\Common\SplashAbout\AsyncSceneLoader.cs" />
+     <Compile Include="Assets\Common\SplashAbout\LoadingScreen.cs" />
+     <Compile Include="Assets\Common\TapHandler.cs" />
+     <Compile Include="Assets\Common\TrackableSettings.cs" />
      <Compile Include="Assets\Falling leaves\Script\AutoDestory.cs" />
      <Compile Include="Assets\Falling leaves\Script\CameraOrbit.cs" />
      <Compile Include="Assets\Falling leaves\Script\SceneManager.cs" />
@@ -60,6 +69,7 @@
      <Compile Include="Assets\Paroxe\UltimateBloom\Scripts\UBHelper.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Scripts\UltimateBloom.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\UltimateBloomPathLocator.cs" />
+     <Compile Include="Assets\Scripts\NegativeGrayscaleEffect.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -116,20 +126,22 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomMixer.shader" />
      <None Include="Assets\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
+     <None Include="Assets\Shaders\NegativeGrayscale.shader" />
      <None Include="Assets\0000 ats V2 package\readme_billboardShader.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\LegacyVersions\Readme.txt" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 billboardShader package\Tree.cginc" />
      <None Include="Assets\10 low-poly Medieval models\3d swing\archibase.net.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombine.shader" />
      <None Include="Assets\0000 ats V2 package\readme_terrainBumpShader.txt" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareMask.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
