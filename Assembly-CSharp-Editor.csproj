@@ -85,9 +85,9 @@
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
-     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
+     <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareMask.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
@@ -101,6 +101,7 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateSampling.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombineCore.cginc" />
+     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\MeshBrush\SimpleVegetationUnlit.shader" />
      <None Include="Assets\0000 ats V2 package\readme_vertexLitShader.txt" />

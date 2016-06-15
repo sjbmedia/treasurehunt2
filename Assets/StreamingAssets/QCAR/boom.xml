@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="treasure-map-e1299742996542" size="1024.000000 769.000000" />
     <ImageTarget name="testcardTEXT" size="1000.000000 556.000000" />
-    <ImageTarget name="testcard" size="670.000000 433.000000" />
-    <ImageTarget name="berg_wolken" size="1024.000000 576.000000" />
     <ImageTarget name="BBC_TV_CentreForTreasureHunt" size="2000.000000 1500.000000" />
     <ImageTarget name="lego" size="1024.000000 683.000000" />
     <ImageTarget name="maanlander-maurice" size="2000.000000 1591.000000" />
