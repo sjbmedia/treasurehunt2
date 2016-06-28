@@ -73,6 +73,7 @@
 
 		//	GUI.Button(new Rect(200, 400, 750, 571),btntexture);
 			Debug.Log("texture 'M' neergezet");
+			Handheld.Vibrate();
 			Debug.Log(native_width);
 
 				//GUI.Box (new Rect (0,0,100,50), "Top-left");
