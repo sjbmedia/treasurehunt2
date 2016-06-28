@@ -128,6 +128,7 @@
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
      <Compile Include="Assets\buttonPopup.cs" />
      <Compile Include="Assets\iTween\iTween.cs" />
+     <Compile Include="Assets\testGUIAppear.cs" />
      <None Include="Assets\0000 ats V2 package\readme_treeBarkShader.txt" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\0000 ats V2 package\readme_grassShader.txt" />
