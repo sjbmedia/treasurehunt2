@@ -82,7 +82,7 @@
 
 			Debug.Log(native_width);
 
-
+			Handheld.Vibrate();
 
 				//GUI.Box (new Rect (0,0,100,50), "Top-left");
 				//GUI.Box (new Rect (1920 - 100,0,100,50), "Top-right");
