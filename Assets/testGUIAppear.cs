@@ -5,8 +5,8 @@
 
 	public class testGUIAppear : MonoBehaviour, ITrackableEventHandler {
 
-		float native_width= 1920f;
-		float native_height= 1080f;
+		float native_width= 1024f;
+		float native_height= 768f;
 		public Texture btntexture;
 		public Texture LogoTexture;
 		public Texture MobiliyaTexture;
@@ -48,7 +48,9 @@
 			float rx = Screen.width / native_width;
 			float ry = Screen.height / native_height;
 
-			GUI.matrix = Matrix4x4.TRS (new Vector3(0, 0, 0), Quaternion.identity, new Vector3 (rx, ry, 1));
+		//	GUI.matrix = Matrix4x4.TRS (new Vector3(0, 0, 0), Quaternion.identity, new Vector3 (rx, ry, 1));
+
+		GUI.matrix = Matrix4x4.TRS (new Vector3(0, 0, 0), Quaternion.identity, new Vector3 (rx, ry, 1));
 
 	//	Rect mButtonRect = new Rect(200, 400, 750, 571);
 			GUIStyle myTextStyle = new GUIStyle(GUI.skin.textField);
@@ -70,11 +72,17 @@
 			//	GUI.Button(new Rect(40, 325, 1000, 70), "<b> MAP 'M' IN EPISODE DETECTED </b>",myTextStyle);
 
 			Rect mButtonRect = new Rect(0, 0, native_width, native_height);
+			//GUI.DrawTexture(new Rect(0, 0, native_width, native_height), btntexture, ScaleMode.ScaleToFit, true);
+
+		//	new Rect(0, 0, native_width, native_height);
+		//	(new Rect(0, 0, native_width, native_height), btntexture, ScaleMode.ScaleToFit, true);
 
 		//	GUI.Button(new Rect(200, 400, 750, 571),btntexture);
 			Debug.Log("texture 'M' neergezet");
-			Handheld.Vibrate();
+
 			Debug.Log(native_width);
+
+
 
 				//GUI.Box (new Rect (0,0,100,50), "Top-left");
 				//GUI.Box (new Rect (1920 - 100,0,100,50), "Top-right");
@@ -93,7 +101,6 @@
 					//Remove Button;
 			mShowGUIButton = false;
 				Debug.Log("AND removed it after the click");
-
 
 				}
 			}
