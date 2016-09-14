@@ -56,6 +56,7 @@
      <Compile Include="Assets\Vuforia\Editor\Scripts\PostProcessBuildPlayer.cs" />
      <Compile Include="Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs" />
      <None Include="Assets\0000 ats V2 package\readme_treeBarkShader.txt" />
+     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\0000 ats V2 package\readme_grassShader.txt" />
      <None Include="Assets\link.xml" />
@@ -72,6 +73,7 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomMixer.shader" />
      <None Include="Assets\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
+     <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_ip.txt" />
      <None Include="Assets\Shaders\NegativeGrayscale.shader" />
      <None Include="Assets\0000 ats V2 package\readme_billboardShader.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
@@ -85,6 +87,7 @@
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
+     <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_rm.txt" />
      <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
@@ -93,7 +96,6 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassMask.shader" />
-     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareSingle.shader" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />

@@ -84,6 +84,8 @@ namespace Vuforia
             }
 
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
+
+
         }
 
 
