@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 968de1e53bd8815429e73482927fff0d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ctrl_Head01
+    100002: Ctrl_Head02
+    100004: Ctrl_Jaw01
+    100006: Ctrl_Jaw02
+    100008: Ctrl_Left Back Leg
+    100010: Ctrl_Left Claw
+    100012: Ctrl_Left Femur
+    100014: Ctrl_Left Foot
+    100016: Ctrl_Left Front Leg
+    100018: Ctrl_Left Humerus
+    100020: Ctrl_Left Pelvis
+    100022: Ctrl_Left Scapula
+    100024: Ctrl_Right Back Leg
+    100026: Ctrl_Right Claw
+    100028: Ctrl_Right Femur
+    100030: Ctrl_Right Foot
+    100032: Ctrl_Right Front Leg
+    100034: Ctrl_Right Humerus
+    100036: Ctrl_Right Pelvis
+    100038: Ctrl_Right Scapula
+    100040: Ctrl_Spine01
+    100042: Ctrl_Spine02
+    100044: Ctrl_Spine03
+    100046: Ctrl_Spine04
+    100048: Ctrl_Spine05
+    100050: Ctrl_Spine06
+    100052: Ctrl_Spine07
+    100054: Ctrl_Spine08
+    100056: Ctrl_Spine09
+    100058: Ctrl_Tail01
+    100060: Ctrl_Tail02
+    100062: Ctrl_Tail03
+    100064: GeneralController001
+    100066: Head Tip jnt
+    100068: Head01 jnt
+    100070: Head02 jnt
+    100072: IK Chain001
+    100074: IK Chain002
+    100076: IK Chain003
+    100078: IK Chain004
+    100080: IK Chain005
+    100082: IK Chain006
+    100084: IK Chain007
+    100086: IK Chain008
+    100088: IK Chain009
+    100090: IK Chain010
+    100092: IK Chain011
+    100094: IK Chain012
+    100096: Jaw Tip jnt
+    100098: Jaw01 jnt
+    100100: Jaw02 jnt
+    100102: Left Back Leg Tip jnt
+    100104: Left Back Leg01 jnt
+    100106: Left Back Leg02 jnt
+    100108: Left Back Leg03 jnt
+    100110: Left Back Leg04 jnt
+    100112: Left Back Leg05 jnt
+    100114: Left Front Leg Tip jnt
+    100116: Left Front Leg01 jnt
+    100118: Left Front Leg02 jnt
+    100120: Left Front Leg03 jnt
+    100122: Left Front Leg04 jnt
+    100124: Left Front Leg05 jnt
+    100126: Panda
+    100128: //RootNode
+    100130: Right Back Leg Tip jnt
+    100132: Right Back Leg01 jnt
+    100134: Right Back Leg02 jnt
+    100136: Right Back Leg03 jnt
+    100138: Right Back Leg04 jnt
+    100140: Right Back Leg05 jnt
+    100142: Right Front Leg Tip jnt
+    100144: Right Front Leg01 jnt
+    100146: Right Front Leg02 jnt
+    100148: Right Front Leg03 jnt
+    100150: Right Front Leg04 jnt
+    100152: Right Front Leg05 jnt
+    100154: Root point Helper
+    100156: Spine01 jnt
+    100158: Spine02 jnt
+    100160: Spine03 jnt
+    100162: Spine04 jnt
+    100164: Spine05 jnt
+    100166: Spine06 jnt
+    100168: Spine07 jnt
+    100170: Spine08 jnt
+    100172: Spine09 jnt
+    100174: Tail Tip jnt
+    100176: Tail01 jnt
+    100178: Tail02 jnt
+    100180: Tail03 jnt
+    400000: Ctrl_Head01
+    400002: Ctrl_Head02
+    400004: Ctrl_Jaw01
+    400006: Ctrl_Jaw02
+    400008: Ctrl_Left Back Leg
+    400010: Ctrl_Left Claw
+    400012: Ctrl_Left Femur
+    400014: Ctrl_Left Foot
+    400016: Ctrl_Left Front Leg
+    400018: Ctrl_Left Humerus
+    400020: Ctrl_Left Pelvis
+    400022: Ctrl_Left Scapula
+    400024: Ctrl_Right Back Leg
+    400026: Ctrl_Right Claw
+    400028: Ctrl_Right Femur
+    400030: Ctrl_Right Foot
+    400032: Ctrl_Right Front Leg
+    400034: Ctrl_Right Humerus
+    400036: Ctrl_Right Pelvis
+    400038: Ctrl_Right Scapula
+    400040: Ctrl_Spine01
+    400042: Ctrl_Spine02
+    400044: Ctrl_Spine03
+    400046: Ctrl_Spine04
+    400048: Ctrl_Spine05
+    400050: Ctrl_Spine06
+    400052: Ctrl_Spine07
+    400054: Ctrl_Spine08
+    400056: Ctrl_Spine09
+    400058: Ctrl_Tail01
+    400060: Ctrl_Tail02
+    400062: Ctrl_Tail03
+    400064: GeneralController001
+    400066: Head Tip jnt
+    400068: Head01 jnt
+    400070: Head02 jnt
+    400072: IK Chain001
+    400074: IK Chain002
+    400076: IK Chain003
+    400078: IK Chain004
+    400080: IK Chain005
+    400082: IK Chain006
+    400084: IK Chain007
+    400086: IK Chain008
+    400088: IK Chain009
+    400090: IK Chain010
+    400092: IK Chain011
+    400094: IK Chain012
+    400096: Jaw Tip jnt
+    400098: Jaw01 jnt
+    400100: Jaw02 jnt
+    400102: Left Back Leg Tip jnt
+    400104: Left Back Leg01 jnt
+    400106: Left Back Leg02 jnt
+    400108: Left Back Leg03 jnt
+    400110: Left Back Leg04 jnt
+    400112: Left Back Leg05 jnt
+    400114: Left Front Leg Tip jnt
+    400116: Left Front Leg01 jnt
+    400118: Left Front Leg02 jnt
+    400120: Left Front Leg03 jnt
+    400122: Left Front Leg04 jnt
+    400124: Left Front Leg05 jnt
+    400126: //RootNode
+    400128: Panda
+    400130: Right Back Leg Tip jnt
+    400132: Right Back Leg01 jnt
+    400134: Right Back Leg02 jnt
+    400136: Right Back Leg03 jnt
+    400138: Right Back Leg04 jnt
+    400140: Right Back Leg05 jnt
+    400142: Right Front Leg Tip jnt
+    400144: Right Front Leg01 jnt
+    400146: Right Front Leg02 jnt
+    400148: Right Front Leg03 jnt
+    400150: Right Front Leg04 jnt
+    400152: Right Front Leg05 jnt
+    400154: Root point Helper
+    400156: Spine01 jnt
+    400158: Spine02 jnt
+    400160: Spine03 jnt
+    400162: Spine04 jnt
+    400164: Spine05 jnt
+    400166: Spine06 jnt
+    400168: Spine07 jnt
+    400170: Spine08 jnt
+    400172: Spine09 jnt
+    400174: Tail Tip jnt
+    400176: Tail01 jnt
+    400178: Tail02 jnt
+    400180: Tail03 jnt
+    4300000: Panda
+    7400000: panda_walk
+    7400002: panda_run
+    7400004: panda_attack1
+    7400006: panda_attack2
+    7400008: panda_attack3
+    7400010: panda_attack4
+    7400012: panda_bite
+    7400014: panda_roar
+    7400016: panda_eat
+    7400018: panda_idle
+    7400020: panda_die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Panda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: panda_walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_run
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_attack1
+      takeName: Take 001
+      firstFrame: 69
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_attack2
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_attack3
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_attack4
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_bite
+      takeName: Take 001
+      firstFrame: 175
+      lastFrame: 194
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_roar
+      takeName: Take 001
+      firstFrame: 194
+      lastFrame: 234
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_eat
+      takeName: Take 001
+      firstFrame: 234
+      lastFrame: 296
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_idle
+      takeName: Take 001
+      firstFrame: 296
+      lastFrame: 342
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: panda_die
+      takeName: Take 001
+      firstFrame: 342
+      lastFrame: 373
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

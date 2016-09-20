@@ -47,11 +47,11 @@
   <ItemGroup>
      <Compile Include="Assets\Standard Assets\Camera Scripts\MouseLook.cs" />
      <None Include="Assets\0000 ats V2 package\readme_treeBarkShader.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\0000 ats V2 package\readme_grassShader.txt" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\Panda\Panda_readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareMeshShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassCore.cginc" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBokehTexture.shader" />
@@ -81,6 +81,7 @@
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_rm.txt" />
      <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
      <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareMask.shader" />

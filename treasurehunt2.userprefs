@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/buttonPopup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/tracked.cs">
     <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="88" Column="4" />
       <File FileName="Assets/buttonPopup.cs" Line="1" Column="1" />
-      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/loopAnimatedGiraffe.cs" Line="1" Column="1" />
+      <File FileName="Assets/tracked.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
