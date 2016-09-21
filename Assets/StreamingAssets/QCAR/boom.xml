@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="PANDA2" size="500.000000 500.000000" />
     <ImageTarget name="giraffe_koala" size="500.000000 500.000000" />
     <ImageTarget name="giraffe" size="1000.000000 1000.000000" />
     <ImageTarget name="RainbowBridge-600pix" size="600.000000 400.000000" />

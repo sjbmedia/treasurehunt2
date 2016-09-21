@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
+
 Shader "Hidden/TerrainEngine/Details/WavingDoublePass" {
 Properties {
 	_WavingTint ("Fade Color", Color) = (.7,.6,.5, 0)
@@ -83,7 +85,7 @@ void vert (inout appdata_full v) {
 	float3 waveMove = float3 (0,0,0);
 	waveMove.x = dot (s, _waveXSizeMove);
 	waveMove.z = dot (s, _waveZSizeMove);
-	v.vertex.xz -= mul ((float3x3)_World2Object, waveMove).xz;
+	v.vertex.xz -= mul ((float3x3)unity_WorldToObject, waveMove).xz;
 	
 ////////// end bending
 }
