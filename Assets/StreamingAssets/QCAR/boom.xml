@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="RAIN_TAG" size="1000.000000 1000.000000" />
     <ImageTarget name="PANDA2" size="500.000000 500.000000" />
-    <ImageTarget name="giraffe_koala" size="500.000000 500.000000" />
     <ImageTarget name="giraffe" size="1000.000000 1000.000000" />
-    <ImageTarget name="RainbowBridge-600pix" size="600.000000 400.000000" />
     <ImageTarget name="treasure-map-e1299742996542-2" size="2000.000000 2662.000000" />
-    <ImageTarget name="testcardTEXT" size="1000.000000 556.000000" />
     <ImageTarget name="BBC_TV_CentreForTreasureHunt" size="2000.000000 1500.000000" />
     <ImageTarget name="lego" size="1024.000000 683.000000" />
     <ImageTarget name="maanlander-maurice" size="2000.000000 1591.000000" />
     <ImageTarget name="kookoo-cover" size="1500.000000 1248.000000" />
     <ImageTarget name="Herfst628" size="628.000000 480.000000" />
-    <ImageTarget name="albert" size="297.000000 106.402626" />
-    <ImageTarget name="achristmastailcoverFINAL" size="297.000000 246.217621" />
-    <ImageTarget name="KK02TreeWinter" size="297.000000 227.006363" />
   </Tracking>
 </QCARConfig>
