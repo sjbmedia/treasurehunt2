@@ -101,6 +101,22 @@ public class TrackableSettings : MonoBehaviour
 					otb.ObjectTarget.StopExtendedTracking();
                 }
             }
+            else if (tb is VuMarkBehaviour)
+            {
+                VuMarkBehaviour vmb = tb as VuMarkBehaviour;
+                if (extTrackingEnabled)
+                {
+                    if (!vmb.VuMarkTemplate.StartExtendedTracking())
+                    {
+                        success = false;
+                        Debug.LogError("Failed to start Extended Tracking on Target " + vmb.TrackableName);
+                    }
+                }
+                else
+                {
+                    vmb.VuMarkTemplate.StopExtendedTracking();
+                }
+            }
         }
         mExtTrackingEnabled = success && extTrackingEnabled;
     }

@@ -136,7 +136,7 @@ MonoBehaviour:
   m_MinHeight: -1
   m_PreferredWidth: -1
   m_PreferredHeight: -1
-  m_FlexibleWidth: .649999976
+  m_FlexibleWidth: .300000012
   m_FlexibleHeight: -1
 --- !u!114 &197049478
 MonoBehaviour:
@@ -256,7 +256,7 @@ MonoBehaviour:
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
-  m_FlexibleHeight: .25
+  m_FlexibleHeight: .400000006
 --- !u!1 &572026889
 GameObject:
   m_ObjectHideFlags: 0
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_MinHeight: -1
   m_PreferredWidth: -1
   m_PreferredHeight: -1
-  m_FlexibleWidth: .300000012
+  m_FlexibleWidth: .400000006
   m_FlexibleHeight: -1
 --- !u!114 &572026892
 MonoBehaviour:
@@ -429,7 +429,7 @@ MonoBehaviour:
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
-  m_FlexibleHeight: .699999988
+  m_FlexibleHeight: .400000006
 --- !u!1 &854969914
 GameObject:
   m_ObjectHideFlags: 0
@@ -690,7 +690,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 3
-  m_AspectRatio: 4.82000017
+  m_AspectRatio: 4
 --- !u!1 &1416976267
 GameObject:
   m_ObjectHideFlags: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
   m_MinHeight: -1
   m_PreferredWidth: -1
   m_PreferredHeight: -1
-  m_FlexibleWidth: .0500000007
+  m_FlexibleWidth: .300000012
   m_FlexibleHeight: -1
 --- !u!114 &1540889524
 MonoBehaviour:
@@ -980,7 +980,7 @@ MonoBehaviour:
   m_PreferredWidth: -1
   m_PreferredHeight: -1
   m_FlexibleWidth: -1
-  m_FlexibleHeight: .0500000007
+  m_FlexibleHeight: .100000001
 --- !u!114 &1991285429
 MonoBehaviour:
   m_ObjectHideFlags: 0
