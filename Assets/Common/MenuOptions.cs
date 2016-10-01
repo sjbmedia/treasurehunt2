@@ -1,4 +1,4 @@
-﻿/*===============================================================================
+/*===============================================================================
 Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
  
 Copyright (c) 2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
@@ -102,13 +102,13 @@ public class MenuOptions : MonoBehaviour
             autofocusToggle.isOn = mCamSettings.IsAutofocusEnabled();
 
         Toggle frontCamToggle = FindUISelectableWithText<Toggle>("Front");
-        if (frontCamToggle && mCamSettings) 
+        if (frontCamToggle && mCamSettings)
             frontCamToggle.isOn = mCamSettings.IsFrontCameraActive();
 
         Toggle rearCamToggle = FindUISelectableWithText<Toggle>("Rear");
         if (rearCamToggle && mCamSettings)
             rearCamToggle.isOn = !mCamSettings.IsFrontCameraActive();
-
+        
         Toggle stonesAndChipsToggle = FindUISelectableWithText<Toggle>("Stones");
         if (stonesAndChipsToggle && mTrackableSettings)
             stonesAndChipsToggle.isOn = mTrackableSettings.GetActiveDatasetName().Contains("Stones");

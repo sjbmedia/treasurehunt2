@@ -1,4 +1,4 @@
-﻿/*===============================================================================
+/*===============================================================================
 Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
  
 Copyright (c) 2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
@@ -13,10 +13,14 @@ public class TapHandler : MonoBehaviour
 {
     #region PRIVATE_MEMBERS
     private const float DOUBLE_TAP_MAX_DELAY = 0.5f;//seconds
-    private int mTapCount = 0;
     private float mTimeSinceLastTap = 0;
     private MenuAnimator mMenuAnim = null;
     #endregion //PRIVATE_MEMBERS
+
+
+    #region PROTECTED_MEMBERS
+    protected int mTapCount = 0;
+    #endregion //PROTECTED_MEMBERS
 
 
     #region MONOBEHAVIOUR_METHODS
@@ -84,8 +88,21 @@ public class TapHandler : MonoBehaviour
         if (Input.GetMouseButtonUp(0))
         {
             mTapCount++;
+            if (mTapCount == 1)
+            {
+                OnSingleTap();
+            }
         }
     }
+    #endregion // PRIVATE_METHODS
+
+
+    #region PROTECTED_METHODS
+    /// <summary>
+    /// This method can be overridden by custom (derived) TapHandler implementations,
+    /// to perform special actions upon single tap.
+    /// </summary>
+    protected virtual void OnSingleTap() { }
 
     protected virtual void OnSingleTapConfirmed()
     {
@@ -103,5 +120,5 @@ public class TapHandler : MonoBehaviour
             mMenuAnim.Show();
         }
     }
-    #endregion // PRIVATE_METHODS
+    #endregion // PROTECTED_METHODS
 }

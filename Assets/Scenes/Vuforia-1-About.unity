@@ -232,7 +232,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4e73f20be86630b41a4102a8a1a4e5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46881f9092fadfa468c39dc57eaed74a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -331,7 +331,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Background Texture Access
+  m_Text: Smart Terrain
 --- !u!222 &634845634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -394,7 +394,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4e73f20be86630b41a4102a8a1a4e5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46881f9092fadfa468c39dc57eaed74a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -661,7 +661,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4e73f20be86630b41a4102a8a1a4e5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46881f9092fadfa468c39dc57eaed74a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -877,7 +877,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4e73f20be86630b41a4102a8a1a4e5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46881f9092fadfa468c39dc57eaed74a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1033,13 +1033,17 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The Background Texture Access sample shows how to use two shaders to manipulate
-    the background video. One shader turns the video into inverted black-and-white
-    and another distorts the video where you touch on the screen.\n\nKey Functionality\n-
-    Apply shaders to video background\n\nTargets\nhttps://developer.vuforia.com/sites/default/files/sample-apps/targets/tarmac.pdf\n\nInstructions\n-
-    Point camera at target to view\n- Tap and drag to distort video background\n-
-    Double tap to access options menu\n\nTerms of Use\nhttps://developer.vuforia.com/legal/EULA\n\n\xA9
-    2016 PTC Inc. All Rights Reserved."
+  m_Text: "The Smart Terrain sample shows how a stage is scanned and props detected
+    that you can then use to build an AR experience on. It should show you how the
+    primary surface and the props may be visualized.\n\nKey Functionality\n- Detect
+    an initial target - image\n- Activate Smart Terrain\n- Scan and find props (objects)\n-
+    Render simple boxes on each prop\n\nTargets\nhttps://developer.vuforia.com/sites/default/files/sample-apps/targets/stones.pdf\n\nInstructions\n-
+    Set up the stage by placing the target image on the table and placing up to 5
+    objects around it\n- Point camera at target to view and pull back slowly till
+    you see the whole stage. Pan left and right until the props are found and boxes
+    rendered\n- Single tap to focus\n- Double tap to access options menu\n\nTerms
+    of Use\nhttps://developer.vuforia.com/legal/EULA\n\n\xA9 2016 PTC Inc. All Rights
+    Reserved."
 --- !u!222 &1983687447
 CanvasRenderer:
   m_ObjectHideFlags: 0

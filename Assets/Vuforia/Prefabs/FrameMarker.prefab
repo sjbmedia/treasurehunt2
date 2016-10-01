@@ -116,7 +116,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08e4618365b5df6439e08cd7109174d4, type: 3}
   m_Name: 
   mTrackableName: 
-  mPreviousScale: {x: 1, y: 1, z: 1}
   mPreserveChildSize: 0
   mInitializedInEditor: 0
   mMarkerID: -1
