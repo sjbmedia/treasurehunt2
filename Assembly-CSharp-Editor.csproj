@@ -49,6 +49,9 @@
      <Compile Include="Assets\MeshBrush\Editor\MeshBrushEditor.cs" />
      <Compile Include="Assets\MeshBrush\Editor\MeshBrushTemplate.cs" />
      <Compile Include="Assets\MeshBrush\Editor\SaveCombinedMeshEditor.cs" />
+     <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\PUManager.cs" />
+     <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\PUSelection.cs" />
+     <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\TreeNode.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Editor\BokehTextureGenerator.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Editor\UltimateBloomEditor.cs" />
      <Compile Include="Assets\RainMaker\Editor\RainMakerEditor.cs" />
@@ -74,6 +77,7 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomMixer.shader" />
      <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
+     <None Include="Assets\Movinarc\PackageUninstaller\README.txt" />
      <None Include="Assets\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_ip.txt" />
      <None Include="Assets\Shaders\NegativeGrayscale.shader" />
@@ -153,6 +157,9 @@
  </Reference>
  <Reference Include="GUIAnimatorFREE">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ </Reference>
+ <Reference Include="SharpCompress.3.5">
+ <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>

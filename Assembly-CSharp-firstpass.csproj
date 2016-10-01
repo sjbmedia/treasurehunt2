@@ -64,6 +64,7 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomMixer.shader" />
      <None Include="Assets\StreamingAssets\QCAR\boom.xml" />
      <None Include="Assets\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
+     <None Include="Assets\Movinarc\PackageUninstaller\README.txt" />
      <None Include="Assets\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_ip.txt" />
      <None Include="Assets\Shaders\NegativeGrayscale.shader" />
