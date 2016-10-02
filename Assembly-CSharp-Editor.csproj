@@ -46,9 +46,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\Vuforia\SampleOrientationSetter.cs" />
-     <Compile Include="Assets\MeshBrush\Editor\MeshBrushEditor.cs" />
-     <Compile Include="Assets\MeshBrush\Editor\MeshBrushTemplate.cs" />
-     <Compile Include="Assets\MeshBrush\Editor\SaveCombinedMeshEditor.cs" />
      <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\PUManager.cs" />
      <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\PUSelection.cs" />
      <Compile Include="Assets\Movinarc\PackageUninstaller\Editor\TreeNode.cs" />
@@ -97,7 +94,6 @@
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_rm.txt" />
-     <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
@@ -106,20 +102,14 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassMask.shader" />
-     <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareSingle.shader" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetation.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareDouble.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateSampling.shader" />
-     <None Include="Assets\GE Common Assets\Readme.txt" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombineCore.cginc" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetationUnlit.shader" />
      <None Include="Assets\0000 ats V2 package\readme_vertexLitShader.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
@@ -153,12 +143,6 @@
  </Reference>
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
- </Reference>
- <Reference Include="GETween">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
- </Reference>
- <Reference Include="GUIAnimatorFREE">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="SharpCompress.3.5">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>

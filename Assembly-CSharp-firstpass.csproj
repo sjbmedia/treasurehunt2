@@ -84,7 +84,6 @@
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_rm.txt" />
-     <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
@@ -93,32 +92,20 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassMask.shader" />
-     <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareSingle.shader" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetation.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareDouble.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateSampling.shader" />
-     <None Include="Assets\GE Common Assets\Readme.txt" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombineCore.cginc" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetationUnlit.shader" />
      <None Include="Assets\0000 ats V2 package\readme_vertexLitShader.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="GETween">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
- </Reference>
- <Reference Include="GUIAnimatorFREE">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>

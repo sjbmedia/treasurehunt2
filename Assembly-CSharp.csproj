@@ -55,34 +55,11 @@
      <Compile Include="Assets\Common\SplashAbout\LoadingScreen.cs" />
      <Compile Include="Assets\Common\TapHandler.cs" />
      <Compile Include="Assets\Common\TrackableSettings.cs" />
-     <Compile Include="Assets\Elementals\Demo\Scripts\GE_Elementals_Demo.cs" />
      <Compile Include="Assets\Falling leaves\Script\AutoDestory.cs" />
      <Compile Include="Assets\Falling leaves\Script\CameraOrbit.cs" />
      <Compile Include="Assets\Falling leaves\Script\SceneManager.cs" />
-     <Compile Include="Assets\GE Common Assets\GE Orbit Camera\Scripts\GE_OrbitCamera.cs" />
-     <Compile Include="Assets\GE Common Assets\GE Orbit Camera\Scripts\GE_OrbitCameraUI.cs" />
-     <Compile Include="Assets\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
-     <Compile Include="Assets\GE Common Assets\Scripts\GE_UIResponder.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo00.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo01.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo02.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo03.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo04.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo05.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo06.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo07.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_Demo08.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_DemoPlaySound.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_OpenOtherScene.cs" />
-     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo Basic (CSharp)\Scripts\GUIAnimatorFREEDemo.cs" />
      <Compile Include="Assets\ImageTargetPlayAudio.cs" />
      <Compile Include="Assets\ImageTargetPlayAudio1.cs" />
-     <Compile Include="Assets\MeshBrush\CombineUtility.cs" />
-     <Compile Include="Assets\MeshBrush\Example_Runtime.cs" />
-     <Compile Include="Assets\MeshBrush\MeshBrush.cs" />
-     <Compile Include="Assets\MeshBrush\MeshBrushParent.cs" />
-     <Compile Include="Assets\MeshBrush\RuntimeAPI.cs" />
-     <Compile Include="Assets\MeshBrush\SaveCombinedMesh.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Scripts\BokehRenderer.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Scripts\DeluxeFilmicCurve.cs" />
      <Compile Include="Assets\Paroxe\UltimateBloom\Scripts\UBHelper.cs" />
@@ -181,7 +158,6 @@
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
      <None Include="Assets\African Animal - Giraffe\Models\giraffe_sv_rm.txt" />
-     <None Include="Assets\Elementals\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomBokehMisc.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
@@ -190,20 +166,14 @@
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomShader.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareCore.cginc" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBrightpassMask.shader" />
-     <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareSingle.shader" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetation.shader" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateFlareDouble.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateSampling.shader" />
-     <None Include="Assets\GE Common Assets\Readme.txt" />
-     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
      <None Include="Assets\Paroxe\UltimateBloom\Resources\UltimateBloomCombineCore.cginc" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetationUnlit.shader" />
      <None Include="Assets\0000 ats V2 package\readme_vertexLitShader.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
@@ -213,12 +183,6 @@
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="GETween">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
- </Reference>
- <Reference Include="GUIAnimatorFREE">
- <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions">
  <HintPath>/Users/wvanleunen/Documents/T/treasurehunt2/Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll</HintPath>
